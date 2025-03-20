@@ -1,0 +1,564 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Benhur Abalos",
+      "party": "PFP",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Secretary of the Interior and Local Government (2022–2024)"
+    },
+    {
+      "id": 2,
+      "name": "Jerome Adonis",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Secretary general of Kilusang Mayo Uno"
+    },
+    {
+      "id": 3,
+      "name": "Wilson Amad",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 4,
+      "name": "Jocelyn Andamo",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Secretary general of Filipino Nurses United"
+    },
+    {
+      "id": 5,
+      "name": "Bam Aquino",
+      "party": "KANP",
+      "alliance": "KiBam",
+      "prior_experience": "Senator (2013–2019)"
+    },
+    {
+      "id": 6,
+      "name": "Ronnel Arambulo",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Vice chairperson of Pamalakaya"
+    },
+    {
+      "id": 7,
+      "name": "Ernesto Arellano",
+      "party": "KKK",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 8,
+      "name": "Roberto Ballon",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "Leader of Kapunungan sa Gagmay'ng Mangingisda sa Concepcion"
+    },
+    {
+      "id": 9,
+      "name": "Abigail Binay",
+      "party": "NPC",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Mayor of Makati (2016–present)"
+    },
+    {
+      "id": 10,
+      "name": "Jimmy Bondoc",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Member of the Board of Directors of Philippine Amusement and Gaming Corporation (2021–2022)"
+    },
+    {
+      "id": 11,
+      "name": "Bong Revilla",
+      "party": "Lakas",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 12,
+      "name": "Bonifacio Bosita",
+      "party": "Independent",
+      "alliance": "Riding-in-tandem Team",
+      "prior_experience": "Incumbent House representative for 1-Rider Partylist (2022–present)"
+    },
+    {
+      "id": 13,
+      "name": "Arlene Brosas",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Incumbent House representative for GABRIELA (since 2016)"
+    },
+    {
+      "id": 14,
+      "name": "Roy Cabonegro",
+      "party": "DPP",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 15,
+      "name": "Allen Capuyan",
+      "party": "PPP",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 16,
+      "name": "Teodoro Casiño",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "House representative for Bayan Muna (2004–2013)"
+    },
+    {
+      "id": 17,
+      "name": "France Castro",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Incumbent House representative for ACT Teachers (since 2016)"
+    },
+    {
+      "id": 18,
+      "name": "Pia Cayetano",
+      "party": "Nacionalista",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 19,
+      "name": "David d'Angelo",
+      "party": "Bunyog",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 20,
+      "name": "Angelo de Alban",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 21,
+      "name": "Leody de Guzman",
+      "party": "PLM",
+      "alliance": null,
+      "prior_experience": "Chairman of Bukluran ng Manggagawang Pilipino"
+    },
+    {
+      "id": 22,
+      "name": "Ronald dela Rosa",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 23,
+      "name": "Mimi Doringo",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Secretary general of Kadamay"
+    },
+    {
+      "id": 24,
+      "name": "Arnel Escobal",
+      "party": "PM",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 25,
+      "name": "Luke Espiritu",
+      "party": "PLM",
+      "alliance": null,
+      "prior_experience": "President of Bukluran ng Manggagawang Pilipino"
+    },
+    {
+      "id": 26,
+      "name": "Mody Floranda",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Chairperson of PISTON"
+    },
+    {
+      "id": 27,
+      "name": "Marc Gamboa",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 28,
+      "name": "Bong Go",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 29,
+      "name": "Norberto Gonzales",
+      "party": "PDSP",
+      "alliance": null,
+      "prior_experience": "Secretary of National Defense (2009–2010)"
+    },
+    {
+      "id": 30,
+      "name": "Jesus Hinlo Jr.",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Commissioner of the Presidential Anti-Corruption Commission (2022)"
+    },
+    {
+      "id": 31,
+      "name": "Gregorio Honasan",
+      "party": "Reform PH",
+      "alliance": null,
+      "prior_experience": "Secretary of Information and Communications Technology (2019–2021)"
+    },
+    {
+      "id": 32,
+      "name": "Relly Jose Jr.",
+      "party": "KBL",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 33,
+      "name": "Panfilo Lacson",
+      "party": "Independent",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Senator (2016–2022)"
+    },
+    {
+      "id": 34,
+      "name": "Raul Lambino",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Administrator and Chief Executive Officer of the Cagayan Economic Zone Authority (2017–2022)"
+    },
+    {
+      "id": 35,
+      "name": "Lito Lapid",
+      "party": "NPC",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 36,
+      "name": "Wilbert T. Lee",
+      "party": "Aksyon",
+      "alliance": null,
+      "prior_experience": "Incumbent House representative for AGRI Partylist (since 2022)",
+      "status": "withdrew"
+    },
+    {
+      "id": 37,
+      "name": "Amirah Lidasan",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Co-chairperson of Sandugo Movement of Moro and Indigenous Peoples for Self-Determination"
+    },
+    {
+      "id": 38,
+      "name": "Rodante Marcoleta",
+      "party": "Independent",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Incumbent House representative for SAGIP Partylist (since 2016)"
+    },
+    {
+      "id": 39,
+      "name": "Imee Marcos",
+      "party": "Nacionalista",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 40,
+      "name": "Norman Marquez",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 41,
+      "name": "Eric Martinez",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "Incumbent House representative from Valenzuela's 2nd district (since 2016)"
+    },
+    {
+      "id": 42,
+      "name": "Richard Mata",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 43,
+      "name": "Sonny Matula",
+      "party": "WPP",
+      "alliance": null,
+      "prior_experience": "President of the Federation of Free Workers"
+    },
+    {
+      "id": 44,
+      "name": "Liza Maza",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Lead convenor of National Anti-Poverty Commission (2016–2018)"
+    },
+    {
+      "id": 45,
+      "name": "Heidi Mendoza",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "Commissioner of the Commission on Audit (2011–2015), Under-Secretary-General for the UN OIOS (2015-2019)"
+    },
+    {
+      "id": 46,
+      "name": "Jose Montemayor Jr.",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 47,
+      "name": "Subair Mustapha",
+      "party": "WPP",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 48,
+      "name": "Jose Olivar",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 49,
+      "name": "Willie Ong",
+      "party": "Aksyon",
+      "alliance": null,
+      "prior_experience": null,
+      "status": "withdrew"
+    },
+    {
+      "id": 50,
+      "name": "Manny Pacquiao",
+      "party": "PFP",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Senator (2016–2022)"
+    },
+    {
+      "id": 51,
+      "name": "Francis Pangilinan",
+      "party": "Liberal",
+      "alliance": "KiBam",
+      "prior_experience": "Senator (2016–2022)"
+    },
+    {
+      "id": 52,
+      "name": "Ariel Querubin",
+      "party": "Nacionalista",
+      "alliance": "Riding-in-tandem Team",
+      "prior_experience": "Colonel, Philippine Marine Corps"
+    },
+    {
+      "id": 53,
+      "name": "Apollo Quiboloy",
+      "party": "Independent",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": null
+    },
+    {
+      "id": 54,
+      "name": "Danilo Ramos",
+      "party": "Makabayan",
+      "alliance": "Oposisyon ng Bayan",
+      "prior_experience": "Chairperson of Kilusang Magbubukid ng Pilipinas"
+    },
+    {
+      "id": 55,
+      "name": "Willie Revillame",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 56,
+      "name": "Vic Rodriguez",
+      "party": "Independent",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": "Executive Secretary (2022)"
+    },
+    {
+      "id": 57,
+      "name": "Nur-Ana Sahidulla",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "House representative from Sulu's 2nd district (2013–2016)"
+    },
+    {
+      "id": 58,
+      "name": "Phillip Salvador",
+      "party": "PDP",
+      "alliance": "Partido Demokratiko Pilipino",
+      "prior_experience": null
+    },
+    {
+      "id": 59,
+      "name": "Tito Sotto",
+      "party": "NPC",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Senator (2010–2022); Senate president (2018–2022)"
+    },
+    {
+      "id": 60,
+      "name": "Michael Tapado",
+      "party": "PM",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 61,
+      "name": "Francis Tolentino",
+      "party": "PFP",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent senator (since 2019)"
+    },
+    {
+      "id": 62,
+      "name": "Ben Tulfo",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": null
+    },
+    {
+      "id": 63,
+      "name": "Erwin Tulfo",
+      "party": "Lakas",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent House representative for ACT-CIS Partylist (since 2023)"
+    },
+    {
+      "id": 64,
+      "name": "Mar Valbuena",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "Chairperson of Manibela"
+    },
+    {
+      "id": 65,
+      "name": "Leandro Verceles Jr.",
+      "party": "Independent",
+      "alliance": null,
+      "prior_experience": "Former governor of Catanduanes (2001–2007)"
+    },
+    {
+      "id": 66,
+      "name": "Camille Villar",
+      "party": "Nacionalista",
+      "alliance": "Alyansa para sa Bagong Pilipinas",
+      "prior_experience": "Incumbent House representative from Las Piňas (since 2019)"
+    }
+  ],
+  "withdrawn_candidates": [
+    {
+      "name": "Delfin Lorenzana",
+      "party": "Independent",
+      "prior_experience": "Former secretary of national defense",
+      "withdrawal_date": "October 8, 2024",
+      "reason": "Withdrew prior to approval of candidacies"
+    },
+    {
+      "name": "Chavit Singson",
+      "party": "Independent",
+      "prior_experience": "Former mayor of Narvacan, Ilocos Sur",
+      "withdrawal_date": "January 16, 2025",
+      "reason": "Health concerns"
+    },
+    {
+      "name": "Francis Leo Marcos",
+      "party": "Independent",
+      "withdrawal_date": "January 23, 2025",
+      "reason": "Withdrew after Supreme Court granted temporary restraining order against COMELEC's ruling"
+    },
+    {
+      "name": "Wilbert T. Lee",
+      "party": "Aksyon Demokratiko",
+      "withdrawal_date": "February 10, 2025",
+      "reason": "Insufficient political machinery to mount a national campaign"
+    },
+    {
+      "name": "Willie Ong",
+      "party": "Aksyon Demokratiko",
+      "withdrawal_date": "February 21, 2025",
+      "reason": "Ill health"
+    }
+  ],
+  "declined_candidates": [
+    {
+      "name": "Leila de Lima",
+      "party": "Liberal",
+      "prior_experience": "Former senator and secretary of justice",
+      "alternative_position": "Running for House representative as Mamamayang Liberal party-list nominee"
+    },
+    {
+      "name": "Chel Diokno",
+      "party": "Akbayan",
+      "prior_experience": "Chairman of the Free Legal Assistance Group and senatorial candidate in 2019 and 2022",
+      "alternative_position": "Running for House representative as Akbayan party-list nominee"
+    },
+    {
+      "name": "Paolo Duterte",
+      "party": "HTL",
+      "prior_experience": "Incumbent House representative from Davao City's 1st district",
+      "alternative_position": "Running for re-election under Hugpong sa Tawong Lungsod"
+    },
+    {
+      "name": "Rodrigo Duterte",
+      "party": "HTL",
+      "prior_experience": "Former president of the Philippines",
+      "alternative_position": "Running for mayor of Davao City under Hugpong sa Tawong Lungsod"
+    },
+    {
+      "name": "Sebastian Duterte",
+      "party": "HTL",
+      "prior_experience": "Incumbent mayor of Davao City",
+      "alternative_position": "Running for vice mayor of Davao City under Hugpong sa Tawong Lungsod"
+    },
+    {
+      "name": "Richard Gomez",
+      "party": "PFP",
+      "prior_experience": "Incumbent House representative from Leyte's 4th district",
+      "alternative_position": "Running for re-election"
+    },
+    {
+      "name": "Isko Moreno",
+      "party": "Aksyon",
+      "prior_experience": "Former mayor of Manila and candidate for president in 2022",
+      "alternative_position": "Running for mayor of Manila"
+    },
+    {
+      "name": "Leni Robredo",
+      "party": "Liberal",
+      "prior_experience": "Former vice president",
+      "alternative_position": "Running for mayor of Naga, Camarines Sur"
+    },
+    {
+      "name": "Rufus Rodriguez",
+      "party": "CDP",
+      "prior_experience": "Incumbent House representative from Cagayan de Oro's 2nd district",
+      "alternative_position": "Running for re-election"
+    }
+  ],
+  "meta": {
+    "election_year": 2025,
+    "data_source": "Wikipedia",
+    "total_candidates": 66,
+    "rejected_candidates_count": 136
+  }
+}
